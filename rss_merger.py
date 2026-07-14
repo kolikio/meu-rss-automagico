@@ -5,18 +5,18 @@ import datetime
 
 FEEDS = [
     "https://mundoconectado.com.br/site/rss",
-    "http://www.marvel616.com/feeds/posts/default",
+    "http://www.marvel616.com/feeds/posts/default?alt=rss",
     "https://www.rederpg.com.br/feed/",
-    "http://bibliotecawod.blogspot.com/feeds/posts/default",
+    "http://bibliotecawod.blogspot.com/feeds/posts/default?alt=rss",
     "https://legadodamarvel.com.br/feed/",
     "https://multiversonoticias.com.br/feed/",
     "http://meiobit.com/index.xml",
     "http://macmagazine.com.br/feed/",
     "https://sociedadejedi.com.br/feed",
     "https://www.tudocelular.com/rss.asp",
-    "http://mundotentacular.blogspot.com/feeds/posts/default",
+    "http://mundotentacular.blogspot.com/feeds/posts/default?alt=rss",
     "https://olhardigital.com.br/rss",
-    "https://www.gameblast.com.br/feeds/posts/default",
+    "https://www.gameblast.com.br/feeds/posts/default?alt=rss",
     "https://legadodadc.com.br/feed/",
     "https://feeds2.feedburner.com/oficinadanet_rss",
     "http://feeds.feedburner.com/tecnoblog",
@@ -43,7 +43,7 @@ FEEDS = [
 
 NEGATIVE_REGEX = re.compile(r'samsung|oneUI|one UI|futebol|copa|oppo|redmi|asus|kindle|jbl|huawei|google pixel|league of legends|leage of legends|funk|mega-sena|mega sena|quina|lotofácil|lotofacil|lotomania|dupla sena|timemania|super sete|loteca|loteria federal|loterias|galaxy', re.IGNORECASE)
 
-ITEM_REGEX = re.compile(r'(?s)(<item.*?>.*?</item>|<entry.*?>.*?</entry>)')
+ITEM_REGEX = re.compile(r'(?s)<item.*?>.*?</item>')
 TITLE_REGEX = re.compile(r'(?s)<title.*?>(.*?)</title>')
 
 XMLNS_REGEX = re.compile(r'xmlns:[a-zA-Z0-9_]+\s*=\s*[\'"][^\'"]+[\'"]')
