@@ -46,7 +46,7 @@ NEGATIVE_REGEX = re.compile(r'samsung|oneUI|one UI|futebol|copa|oppo|redmi|asus|
 ITEM_REGEX = re.compile(r'(?s)(<item.*?>.*?</item>|<entry.*?>.*?</entry>)')
 TITLE_REGEX = re.compile(r'(?s)<title.*?>(.*?)</title>')
 
-XMLNS_REGEX = re.compile(r'xmlns:[a-zA-Z0-9_]+="[^"]+"')
+XMLNS_REGEX = re.compile(r'xmlns:[a-zA-Z0-9_]+\s*=\s*[\'"][^\'"]+[\'"]')
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
 all_valid_items = []
@@ -54,7 +54,15 @@ all_namespaces = {
     'media': 'xmlns:media="http://search.yahoo.com/mrss/"',
     'content': 'xmlns:content="http://purl.org/rss/1.0/modules/content/"',
     'dc': 'xmlns:dc="http://purl.org/dc/elements/1.1/"',
-    'atom': 'xmlns:atom="http://www.w3.org/2005/Atom"'
+    'atom': 'xmlns:atom="http://www.w3.org/2005/Atom"',
+    'thr': 'xmlns:thr="http://purl.org/syndication/thread/1.0"',
+    'georss': 'xmlns:georss="http://www.georss.org/georss"',
+    'slash': 'xmlns:slash="http://purl.org/rss/1.0/modules/slash/"',
+    'wp': 'xmlns:wp="http://wordpress.org/export/1.1/"',
+    'wfw': 'xmlns:wfw="http://wellformedweb.org/CommentAPI/"',
+    'sy': 'xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"',
+    'itunes': 'xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"',
+    'gml': 'xmlns:gml="http://www.opengis.net/gml"'
 }
 
 for url in FEEDS:
@@ -65,11 +73,13 @@ for url in FEEDS:
             
             namespaces = XMLNS_REGEX.findall(content)
             for ns in namespaces:
-                match = re.match(r'xmlns:([a-zA-Z0-9_]+)=', ns)
+                match = re.match(r'xmlns:([a-zA-Z0-9_]+)\s*=', ns)
                 if match:
                     prefix = match.group(1)
                     if prefix not in all_namespaces:
-                        all_namespaces[prefix] = ns
+                        # Normalize quotes to double quotes for output
+                        ns_clean = ns.replace("'", '"')
+                        all_namespaces[prefix] = ns_clean
                         
             items = ITEM_REGEX.findall(content)
             for item in items:
