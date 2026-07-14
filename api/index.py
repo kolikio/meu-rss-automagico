@@ -62,7 +62,7 @@ class handler(BaseHTTPRequestHandler):
             
             if inline_img:
                 # Injeta a imagem achada no HTML diretamente
-                enclosure_tag = f'\n    <enclosure url="{inline_img}" type="image/jpeg" />\n  '
+                enclosure_tag = f'\n    <enclosure url="{inline_img}" length="0" type="image/jpeg" />\n  '
                 new_item = item.replace('</item>', f'{enclosure_tag}</item>')
                 content = content.replace(item, new_item)
             else:
@@ -81,14 +81,14 @@ class handler(BaseHTTPRequestHandler):
             # Substitui as imagens processadas no XML final
             for (old_item, _), img_url in zip(items_to_fetch, images):
                 if img_url:
-                    enclosure_tag = f'\n    <enclosure url="{img_url}" type="image/jpeg" />\n  '
+                    enclosure_tag = f'\n    <enclosure url="{img_url}" length="0" type="image/jpeg" />\n  '
                     new_item = old_item.replace('</item>', f'{enclosure_tag}</item>')
                     content = content.replace(old_item, new_item)
 
         # Retorna o XML formatado e modificado pro leitor RSS (FeedFlow)
         self.send_response(200)
         self.send_header('Content-type', 'application/xml; charset=utf-8')
-        # Cache de 5 minutos na Vercel Edge Network
-        self.send_header('Cache-Control', 's-maxage=300, stale-while-revalidate')
+        # Cache reduzido para 60 segundos
+        self.send_header('Cache-Control', 's-maxage=60, stale-while-revalidate')
         self.end_headers()
         self.wfile.write(content.encode('utf-8'))
