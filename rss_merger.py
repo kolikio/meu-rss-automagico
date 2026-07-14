@@ -41,7 +41,7 @@ FEEDS = [
     "https://startups.com.br/feed/"
 ]
 
-NEGATIVE_REGEX = re.compile(r'samsung|oneUI|one UI|futebol|copa|oppo|redmi|asus|kindle|jbl|huawei|google pixel|league of legends|leage of legends|funk|mega-sena|mega sena|quina|lotofácil|lotofacil|lotomania|dupla sena|timemania|super sete|loteca|loteria federal|loterias', re.IGNORECASE)
+NEGATIVE_REGEX = re.compile(r'samsung|oneUI|one UI|futebol|copa|oppo|redmi|asus|kindle|jbl|huawei|google pixel|league of legends|leage of legends|funk|mega-sena|mega sena|quina|lotofácil|lotofacil|lotomania|dupla sena|timemania|super sete|loteca|loteria federal|loterias|galaxy', re.IGNORECASE)
 
 ITEM_REGEX = re.compile(r'(?s)(<item.*?>.*?</item>|<entry.*?>.*?</entry>)')
 TITLE_REGEX = re.compile(r'(?s)<title.*?>(.*?)</title>')
