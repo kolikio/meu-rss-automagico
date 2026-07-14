@@ -46,14 +46,31 @@ NEGATIVE_REGEX = re.compile(r'samsung|oneUI|one UI|futebol|copa|oppo|redmi|asus|
 ITEM_REGEX = re.compile(r'(?s)(<item.*?>.*?</item>|<entry.*?>.*?</entry>)')
 TITLE_REGEX = re.compile(r'(?s)<title.*?>(.*?)</title>')
 
+XMLNS_REGEX = re.compile(r'xmlns:[a-zA-Z0-9_]+="[^"]+"')
+
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
 all_valid_items = []
+all_namespaces = {
+    'media': 'xmlns:media="http://search.yahoo.com/mrss/"',
+    'content': 'xmlns:content="http://purl.org/rss/1.0/modules/content/"',
+    'dc': 'xmlns:dc="http://purl.org/dc/elements/1.1/"',
+    'atom': 'xmlns:atom="http://www.w3.org/2005/Atom"'
+}
 
 for url in FEEDS:
     try:
         req = urllib.request.Request(url, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=15) as response:
             content = response.read().decode('utf-8', errors='ignore')
+            
+            namespaces = XMLNS_REGEX.findall(content)
+            for ns in namespaces:
+                match = re.match(r'xmlns:([a-zA-Z0-9_]+)=', ns)
+                if match:
+                    prefix = match.group(1)
+                    if prefix not in all_namespaces:
+                        all_namespaces[prefix] = ns
+                        
             items = ITEM_REGEX.findall(content)
             for item in items:
                 title_match = TITLE_REGEX.search(item)
@@ -64,8 +81,10 @@ for url in FEEDS:
     except Exception as e:
         pass
 
+namespaces_str = " ".join(all_namespaces.values())
+
 rss_template = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" {namespaces_str}>
   <channel>
     <title>Meu Feed Limpo e Turbinado</title>
     <link>https://github.com/</link>
