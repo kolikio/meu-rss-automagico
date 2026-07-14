@@ -3,6 +3,33 @@ import re
 import os
 import datetime
 
+def extract_image(item):
+    if re.search(r'<enclosure|<media:content|<media:thumbnail', item, re.IGNORECASE):
+        return None
+    
+    img_matches = re.finditer(r'<img[^>]+src=["\']([^"\']+)["\']', item, re.IGNORECASE)
+    for match in img_matches:
+        url = match.group(1)
+        if 'gstatic.com' in url or 'avatar' in url or 'emoji' in url or '.gif' in url:
+            continue
+        return url
+
+    link_match = re.search(r'<link>(.*?)</link>', item, re.IGNORECASE)
+    if link_match:
+        link_url = link_match.group(1).replace('<![CDATA[', '').replace(']]>', '').strip()
+        try:
+            req = urllib.request.Request(link_url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req, timeout=3) as response:
+                html = response.read().decode('utf-8', errors='ignore')
+                og_match = re.search(r'<meta[^>]*property=[\'"]og:image[\'"][^>]*content=[\'"]([^\'"]+)[\'"]', html, re.IGNORECASE)
+                if not og_match:
+                    og_match = re.search(r'<meta[^>]*content=[\'"]([^\'"]+)[\'"][^>]*property=[\'"]og:image[\'"]', html, re.IGNORECASE)
+                if og_match:
+                    return og_match.group(1)
+        except Exception:
+            pass
+    return None
+
 FEEDS = [
     "https://mundoconectado.com.br/site/rss",
     "http://www.marvel616.com/feeds/posts/default?alt=rss",
@@ -87,22 +114,12 @@ for url in FEEDS:
                 if title_match:
                     title_text = title_match.group(1).replace('<![CDATA[', '').replace(']]>', '').strip()
                     if not NEGATIVE_REGEX.search(title_text):
-                        # Se não tiver tag oficial de thumbnail, caçamos a imagem no texto HTML
-                        if not re.search(r'<enclosure|<media:content|<media:thumbnail', item, re.IGNORECASE):
-                            img_matches = re.finditer(r'<img[^>]+src=["\']([^"\']+)["\']', item, re.IGNORECASE)
-                            img_url = None
-                            for match in img_matches:
-                                url = match.group(1)
-                                # Ignorar emojis e avatares
-                                if 'gstatic.com' in url or 'avatar' in url or 'emoji' in url or '.gif' in url:
-                                    continue
-                                img_url = url
-                                break
-                            
-                            if img_url:
-                                # Injetar a tag enclosure forçando a imagem a ser a capa do card
-                                enclosure_tag = f'\n    <enclosure url="{img_url}" type="image/jpeg" />\n  '
-                                item = item.replace('</item>', f'{enclosure_tag}</item>')
+                        # Tenta extrair a imagem do HTML ou buscar a og:image da página
+                        img_url = extract_image(item)
+                        if img_url:
+                            # Injetar a tag enclosure forçando a imagem a ser a capa do card
+                            enclosure_tag = f'\n    <enclosure url="{img_url}" type="image/jpeg" />\n  '
+                            item = item.replace('</item>', f'{enclosure_tag}</item>')
                                 
                         all_valid_items.append(item)
     except Exception as e:
