@@ -87,6 +87,23 @@ for url in FEEDS:
                 if title_match:
                     title_text = title_match.group(1).replace('<![CDATA[', '').replace(']]>', '').strip()
                     if not NEGATIVE_REGEX.search(title_text):
+                        # Se não tiver tag oficial de thumbnail, caçamos a imagem no texto HTML
+                        if not re.search(r'<enclosure|<media:content|<media:thumbnail', item, re.IGNORECASE):
+                            img_matches = re.finditer(r'<img[^>]+src=["\']([^"\']+)["\']', item, re.IGNORECASE)
+                            img_url = None
+                            for match in img_matches:
+                                url = match.group(1)
+                                # Ignorar emojis e avatares
+                                if 'gstatic.com' in url or 'avatar' in url or 'emoji' in url or '.gif' in url:
+                                    continue
+                                img_url = url
+                                break
+                            
+                            if img_url:
+                                # Injetar a tag enclosure forçando a imagem a ser a capa do card
+                                enclosure_tag = f'\n    <enclosure url="{img_url}" type="image/jpeg" />\n  '
+                                item = item.replace('</item>', f'{enclosure_tag}</item>')
+                                
                         all_valid_items.append(item)
     except Exception as e:
         pass
