@@ -33,7 +33,14 @@ class handler(BaseHTTPRequestHandler):
         try:
             req = urllib.request.Request(feed_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
             with urllib.request.urlopen(req, timeout=5) as response:
-                content = response.read().decode('utf-8', errors='ignore')
+                if response.info().get('Content-Encoding') == 'gzip':
+                    import gzip
+                    content = gzip.decompress(response.read()).decode('utf-8', errors='ignore')
+                else:
+                    content = response.read().decode('utf-8', errors='ignore')
+                
+                # Conserta bug nativo do feed do Jovem Nerd
+                content = content.replace('admin.jovemnerd.com.br', 'jovemnerd.com.br')
         except Exception as e:
             self.send_response(500)
             self.end_headers()
