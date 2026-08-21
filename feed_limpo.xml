@@ -4,7 +4,7 @@
     <title>Meu Feed Limpo e Turbinado</title>
     <link>https://github.com/</link>
     <description>Feed Consolidado hospedado no GitHub Actions</description>
-    <lastBuildDate>Fri, 21 Aug 2026 05:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 05:37:57 +0000</lastBuildDate>
     <item>
 		<title>Brasileiro ex-CEO da Motorola assume como Vice-Presidente Executivo da Qualcomm</title>
 		<link>https://www.mundoconectado.com.br/corporativo/sergio-buniac-qualcomm-motorola/</link>
@@ -6667,7 +6667,7 @@ resto do mundo.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;separator&quot; 
 <p><a href="https://tecnoblog.net/noticias/gerenciador-de-tarefas-do-windows-vai-monitorar-hardware-usado-por-ia/">Gerenciador de Tarefas do Windows vai monitorar hardware usado por IA</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d538ca989&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d538ca989" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-4-1060x596.png" alt="Imagem digital de fundo que mescla tons de azul escuro e marinho. No centro, sobreposto a um padrão abstrato de ondas ou tecido em relevo, está o logotipo do sistema operacional Windows 11: um quadrado formado por quatro janelas quadradas de cor azul-clara luminosa. O logo do &quot;Tecnoblog&quot; aparece no canto superior direito." class="wp-image-634745"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea21e91c&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea21e91c" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-4-1060x596.png" alt="Imagem digital de fundo que mescla tons de azul escuro e marinho. No centro, sobreposto a um padrão abstrato de ondas ou tecido em relevo, está o logotipo do sistema operacional Windows 11: um quadrado formado por quatro janelas quadradas de cor azul-clara luminosa. O logo do &quot;Tecnoblog&quot; aparece no canto superior direito." class="wp-image-634745"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -6727,7 +6727,7 @@ resto do mundo.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;separator&quot; 
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d538cb896&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d538cb896" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="975" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/gerenciador-de-tarefas-processos-npu.png" alt="Captura de tela da aba Processos do Gerenciador de Tarefas com o menu de colunas aberto, mostrando as opções &quot;NPU&quot; e &quot;NPU engine&quot; marcadas. A coluna &quot;NPU engine&quot; exibe o processo &quot;Service Host: Windows Camera Frame...&quot; usando &quot;NPU 0 - Compute&quot; com 39,3% de uso." class="wp-image-924386"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2215a1&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2215a1" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="975" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/gerenciador-de-tarefas-processos-npu.png" alt="Captura de tela da aba Processos do Gerenciador de Tarefas com o menu de colunas aberto, mostrando as opções &quot;NPU&quot; e &quot;NPU engine&quot; marcadas. A coluna &quot;NPU engine&quot; exibe o processo &quot;Service Host: Windows Camera Frame...&quot; usando &quot;NPU 0 - Compute&quot; com 39,3% de uso." class="wp-image-924386"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -6752,7 +6752,7 @@ resto do mundo.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;separator&quot; 
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d538cbdf3&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d538cbdf3" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="974" height="741" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/gerenciador-de-tarefas-desempenho-gpu.png" alt="Captura de tela do Gerenciador de Tarefas do Windows na aba Desempenho, mostrando detalhes da GPU Intel Arc B390. Os gráficos exibem uso de 3D, Copy, Neural e Video Decode, com o mecanismo Neural registrando 14% de utilização." class="wp-image-924387"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea221d9f&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea221d9f" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="974" height="741" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/gerenciador-de-tarefas-desempenho-gpu.png" alt="Captura de tela do Gerenciador de Tarefas do Windows na aba Desempenho, mostrando detalhes da GPU Intel Arc B390. Os gráficos exibem uso de 3D, Copy, Neural e Video Decode, com o mecanismo Neural registrando 14% de utilização." class="wp-image-924387"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -6823,7 +6823,7 @@ resto do mundo.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;separator&quot; 
 <p><a href="https://tecnoblog.net/guias/celular-8gb-ram/">Celular com 8 GB de RAM: top 10 smartphones para comprar em 2026</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d538d62ff&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d538d62ff" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/iphone-17-em-maos-1060x597.jpg" alt="iPhone 17 em mãos, com logotipo e câmeras traseiras e crédito “Thássius Veloso/Tecnoblog”" class="wp-image-923619"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea23c411&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea23c411" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/iphone-17-em-maos-1060x597.jpg" alt="iPhone 17 em mãos, com logotipo e câmeras traseiras e crédito “Thássius Veloso/Tecnoblog”" class="wp-image-923619"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -8275,7 +8275,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/australia-aprova-lei-que-cobra-big-techs-por-uso-de-noticias/">Austrália aprova lei que cobra big techs por uso de notícias</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5391e87d&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5391e87d" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2020/11/google-noticias-checagem-de-fatos-tecnoblog-1060x596.jpg" alt="Google Notícias exibe área destacada contra fake news " class="wp-image-381595"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2916d7&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2916d7" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2020/11/google-noticias-checagem-de-fatos-tecnoblog-1060x596.jpg" alt="Google Notícias exibe área destacada contra fake news " class="wp-image-381595"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -8315,7 +8315,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5391f720&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5391f720" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="595" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/05/captura-de-tela-2024-05-14-as-14-06-18-e1715706700198-1060x595.png" alt="Homem sobre palco" class="wp-image-763901"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2923ef&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2923ef" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="595" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/05/captura-de-tela-2024-05-14-as-14-06-18-e1715706700198-1060x595.png" alt="Homem sobre palco" class="wp-image-763901"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -8362,7 +8362,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53920337&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53920337" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2021/12/tipos-de-inteligencia-artificial-1060x596.png" alt="Ilustração de tipos de inteligência artificial, com robôs humanoides. Na parte inferior direita, o logo do &quot;tecnoblog&quot; é exibido." class="wp-image-788490"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea29311c&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea29311c" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2021/12/tipos-de-inteligencia-artificial-1060x596.png" alt="Ilustração de tipos de inteligência artificial, com robôs humanoides. Na parte inferior direita, o logo do &quot;tecnoblog&quot; é exibido." class="wp-image-788490"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -8403,7 +8403,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53921029&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53921029" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="1280" height="738" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/08/google-ia-generativa.jpg" alt="Imagem mostra a barra de pesquisa do Google" class="wp-image-779316"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea293c20&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea293c20" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="1280" height="738" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/08/google-ia-generativa.jpg" alt="Imagem mostra a barra de pesquisa do Google" class="wp-image-779316"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -8571,7 +8571,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53925da9&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53925da9" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2025/04/razr-60-ultra-1-1060x596.jpg" alt="Razr 60 Ultra aberto, visto de frente, com destaque para a tela de 7 polegadas" class="wp-image-822775"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea299060&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea299060" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2025/04/razr-60-ultra-1-1060x596.jpg" alt="Razr 60 Ultra aberto, visto de frente, com destaque para a tela de 7 polegadas" class="wp-image-822775"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -8642,7 +8642,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/trabalhadores-se-queixam-de-interrupcoes-apos-40-minutos-revela-pesquisa/">Trabalhadores se queixam de interrupções após 40 minutos, revela pesquisa</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539285e1&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539285e1" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/capa-trabalhadores-se-queixam-apos-40-min-1060x596.jpg" alt="Trabalhadores se queixam de interrupções no trabalho; um ícone de notificação simboliza a distração" class="wp-image-924263"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea29c4f8&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea29c4f8" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/capa-trabalhadores-se-queixam-apos-40-min-1060x596.jpg" alt="Trabalhadores se queixam de interrupções no trabalho; um ícone de notificação simboliza a distração" class="wp-image-924263"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -8750,7 +8750,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539293b7&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539293b7" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/kindle-scribe-tecnoblog-5-1060x597.jpg" alt="" class="wp-image-924023"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea29d1d5&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea29d1d5" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/kindle-scribe-tecnoblog-5-1060x597.jpg" alt="" class="wp-image-924023"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -8898,7 +8898,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5392c3fd&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5392c3fd" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/04/como-recuperar-a-senha-do-instagram-1-1060x795.png" alt="Selecionando a opção “Esqueceu a senha?” no login do Instagram" class="wp-image-924251"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2a180b&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2a180b" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/04/como-recuperar-a-senha-do-instagram-1-1060x795.png" alt="Selecionando a opção “Esqueceu a senha?” no login do Instagram" class="wp-image-924251"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -8923,7 +8923,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5392ca99&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5392ca99" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/04/como-recuperar-a-senha-do-instagram-2-1060x795.png" alt="Informar o e-mail ou número de telefone vinculado ao perfil do Instagram para recuperar a conta" class="wp-image-924252"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2a28d4&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2a28d4" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/04/como-recuperar-a-senha-do-instagram-2-1060x795.png" alt="Informar o e-mail ou número de telefone vinculado ao perfil do Instagram para recuperar a conta" class="wp-image-924252"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -8948,7 +8948,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5392d12d&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5392d12d" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/04/como-recuperar-a-senha-do-instagram-3-1060x795.png" alt="Abrindo a opção “Tentar outra forma” na tela de verificação do Instagram no celular" class="wp-image-924253"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2a406d&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2a406d" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/04/como-recuperar-a-senha-do-instagram-3-1060x795.png" alt="Abrindo a opção “Tentar outra forma” na tela de verificação do Instagram no celular" class="wp-image-924253"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -8973,7 +8973,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5392d624&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5392d624" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/04/como-recuperar-a-senha-do-instagram-4-1060x795.png" alt="Selecionando o envio do link de recuperação do Instagram por e-mail para redefinir a senha (Continuitar)" class="wp-image-924254"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2a493c&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2a493c" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/04/como-recuperar-a-senha-do-instagram-4-1060x795.png" alt="Selecionando o envio do link de recuperação do Instagram por e-mail para redefinir a senha (Continuitar)" class="wp-image-924254"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -8998,7 +8998,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5392dce5&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5392dce5" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/04/como-recuperar-a-senha-do-instagram-5-1060x795.png" alt="Acessando o link para recuperação da senha do Instagram no e-mail" class="wp-image-924256"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2a53eb&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2a53eb" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/04/como-recuperar-a-senha-do-instagram-5-1060x795.png" alt="Acessando o link para recuperação da senha do Instagram no e-mail" class="wp-image-924256"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -9063,7 +9063,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5392e6dd&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5392e6dd" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/como-ver-a-senha-do-instagram-no-android-1060x795.png" alt="Encontrando as credenciais do Instagram no app Senhas da Apple, selecionando o perfil e exibindo a senha" class="wp-image-920391"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2a6153&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2a6153" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/como-ver-a-senha-do-instagram-no-android-1060x795.png" alt="Encontrando as credenciais do Instagram no app Senhas da Apple, selecionando o perfil e exibindo a senha" class="wp-image-920391"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -9106,7 +9106,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5392ef90&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5392ef90" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/como-ver-a-senha-do-instagram-no-iphone-1060x795.png" alt="Mostra o app Senhas da Apple com as credenciais do Instagram selecionadas para visualizar o campo de senha" class="wp-image-920392"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2a6977&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2a6977" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/como-ver-a-senha-do-instagram-no-iphone-1060x795.png" alt="Mostra o app Senhas da Apple com as credenciais do Instagram selecionadas para visualizar o campo de senha" class="wp-image-920392"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -9240,7 +9240,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/amazon-compra-e-destroi-livros-em-massa-para-treinar-ia-diz-site/">Amazon compra e destrói livros em massa para treinar IA, diz site</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539397b8&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539397b8" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-amazon-1_thumb_tb-1060x596.png" alt="Ilustração mostra o logo da Amazon em cor amarelo em um fundo de cor verde. Na parte inferior direita, o logotipo do &quot;Tecnoblog&quot; é visível. " class="wp-image-635817"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2b12e9&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2b12e9" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-amazon-1_thumb_tb-1060x596.png" alt="Ilustração mostra o logo da Amazon em cor amarelo em um fundo de cor verde. Na parte inferior direita, o logotipo do &quot;Tecnoblog&quot; é visível. " class="wp-image-635817"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -9296,7 +9296,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5393a15a&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5393a15a" class="wp-block-image size-full is-resized wp-lightbox-container"><img decoding="async" width="677" height="601" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/image3-2-1.png" alt="Imagem mostra o logotipo de uma unidade industrial chamada VGT3. O logo mostra um dinossauro destruindo um livro." class="wp-image-923977" style="width:461px;height:auto"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2b3781&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2b3781" class="wp-block-image size-full is-resized wp-lightbox-container"><img decoding="async" width="677" height="601" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/image3-2-1.png" alt="Imagem mostra o logotipo de uma unidade industrial chamada VGT3. O logo mostra um dinossauro destruindo um livro." class="wp-image-923977" style="width:461px;height:auto"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -9333,7 +9333,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5393ad8e&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5393ad8e" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2023/02/livros-jessica-ruscello-unsplash-e1676934360871-1060x596.jpg" alt="Prateleira com livros físicos " class="wp-image-675971"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2b45b6&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2b45b6" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2023/02/livros-jessica-ruscello-unsplash-e1676934360871-1060x596.jpg" alt="Prateleira com livros físicos " class="wp-image-675971"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -9397,7 +9397,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/google-reune-funcionalidades-de-ia-para-estudantes-em-novo-student-hub/">Google reúne funcionalidades de IA para estudantes em novo Student Hub</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5393d82a&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5393d82a" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-1-1060x596.png" alt="A palavra &quot;Gemini&quot; está escrita centralizada em letras estilizadas e com um leve degradê que transita suavemente do azul-claro (na letra G) para um tom amarelado sutil (nas últimas letras). O fundo principal é preto, mas possui um formato que lembra um losango de bordas curvas e macias. Fora dessa área escura central, os quatro cantos da imagem revelam um fundo iluminado e desfocado com texturas granuladas em tons de amarelo, laranja e azul. No canto inferior direito, destaca-se o logotipo do site &quot;tecnoblog&quot; em letras brancas." class="wp-image-904799"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2bbabe&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2bbabe" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-1-1060x596.png" alt="A palavra &quot;Gemini&quot; está escrita centralizada em letras estilizadas e com um leve degradê que transita suavemente do azul-claro (na letra G) para um tom amarelado sutil (nas últimas letras). O fundo principal é preto, mas possui um formato que lembra um losango de bordas curvas e macias. Fora dessa área escura central, os quatro cantos da imagem revelam um fundo iluminado e desfocado com texturas granuladas em tons de amarelo, laranja e azul. No canto inferior direito, destaca-se o logotipo do site &quot;tecnoblog&quot; em letras brancas." class="wp-image-904799"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -9546,7 +9546,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/youtube-quer-pagar-por-exclusividade-de-canais-populares-diz-site/">YouTube compra briga para evitar fuga de criadores para Netflix</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5394014a&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5394014a" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2022/05/youtube_capa-2_tb-1060x596.png" alt="Arte com o logotipo vermelho do YouTube em um fundo preto." class="wp-image-623669"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2c3720&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2c3720" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2022/05/youtube_capa-2_tb-1060x596.png" alt="Arte com o logotipo vermelho do YouTube em um fundo preto." class="wp-image-623669"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -9614,7 +9614,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53940e65&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53940e65" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2023/02/netflix-2-1060x596.png" alt="Imagem mostra o prédio da Netflix em Hollywood, nos Estados Unidos" class="wp-image-676928"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2c466b&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2c466b" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2023/02/netflix-2-1060x596.png" alt="Imagem mostra o prédio da Netflix em Hollywood, nos Estados Unidos" class="wp-image-676928"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -9828,7 +9828,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/latam-airlines-sofre-vazamento-de-dados-de-clientes-veja-o-que-foi-exposto/">Latam sofre vazamento de dados de clientes; veja o que foi exposto</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53946aff&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53946aff" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="601" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2017/10/latam-a320-1060x601.jpg" alt="Airbus A320 da Latam Airlines" class="wp-image-226718"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2cf431&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2cf431" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="601" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2017/10/latam-a320-1060x601.jpg" alt="Airbus A320 da Latam Airlines" class="wp-image-226718"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -9934,7 +9934,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53947697&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53947697" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="706" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/aviao-latam-airlines-1060x706.jpg" alt="Avião da Latam Airlines" class="wp-image-924009"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2d2608&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2d2608" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="706" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/aviao-latam-airlines-1060x706.jpg" alt="Avião da Latam Airlines" class="wp-image-924009"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -10007,7 +10007,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/fabricante-paralisa-producao-de-dispositivos-linux-devido-a-crise-de-ram/">Fabricante paralisa produção de dispositivos Linux devido à crise de RAM</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53950b8a&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53950b8a" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/pinetab2-1060x596.jpg" alt="O tablet PineTab2, que roda Linux" class="wp-image-923903"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2ddf66&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2ddf66" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/pinetab2-1060x596.jpg" alt="O tablet PineTab2, que roda Linux" class="wp-image-923903"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -10061,7 +10061,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53951909&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53951909" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="706" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/pinebook-pro-1060x706.jpg" alt="Notebook Pinebook Pro rodando o elementary OS" class="wp-image-923950"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2dec87&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2dec87" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="706" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/pinebook-pro-1060x706.jpg" alt="Notebook Pinebook Pro rodando o elementary OS" class="wp-image-923950"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -10314,7 +10314,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/hacker-desafia-a-rockstar-e-continua-vazando-videos-de-gta-6/">Hacker desafia a Rockstar e continua vazando vídeos de GTA 6</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5395e2f2&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5395e2f2" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/ultimate_edition_02-1060x596.jpg" alt="Imagem mostra os personagens de GTA 6 Jason Duval e Lucia em Vice City" class="wp-image-923851"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2eabe6&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2eabe6" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/ultimate_edition_02-1060x596.jpg" alt="Imagem mostra os personagens de GTA 6 Jason Duval e Lucia em Vice City" class="wp-image-923851"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -10370,7 +10370,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5395ed87&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5395ed87" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="1018" height="572" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2025/11/captura-de-tela-2025-05-06-as-10-41-40-edited.png" alt="Imagem mostra um homem de óculos escuros e boné, pilotando uma motocicleta vermelha em direção à câmera. Ele é um personagem do jogo GTA 6. Ele veste uma regata preta. Ao fundo, um avião amarelo de hélice voa no céu azul com nuvens brancas. O foco está no motociclista e na frente da moto, com o avião ligeiramente desfocado." class="wp-image-864084"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2eb9aa&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2eb9aa" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="1018" height="572" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2025/11/captura-de-tela-2025-05-06-as-10-41-40-edited.png" alt="Imagem mostra um homem de óculos escuros e boné, pilotando uma motocicleta vermelha em direção à câmera. Ele é um personagem do jogo GTA 6. Ele veste uma regata preta. Ao fundo, um avião amarelo de hélice voa no céu azul com nuvens brancas. O foco está no motociclista e na frente da moto, com o avião ligeiramente desfocado." class="wp-image-864084"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -10399,7 +10399,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5395f79c&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5395f79c" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/06/gta-1-1060x596.webp" alt="Imagem mostra os personagens de GTA 6 Jason Duval e Lucia em Vice City" class="wp-image-908313"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2ec34d&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2ec34d" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/06/gta-1-1060x596.webp" alt="Imagem mostra os personagens de GTA 6 Jason Duval e Lucia em Vice City" class="wp-image-908313"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -10512,7 +10512,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/guias/tablet-com-chip/">Tablet com chip: os 10 melhores modelos para comprar em 2026</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d5396643e&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d5396643e" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/tablet-com-chip.png" alt="Foto doGalaxy Tab S11" class="wp-image-923792"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea2f2088&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea2f2088" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/tablet-com-chip.png" alt="Foto doGalaxy Tab S11" class="wp-image-923792"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -11709,7 +11709,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/guias/celular-12gb-ram/">Celular com 12 GB de RAM: top 10 smartphones para comprar em 2026</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53984476&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53984476" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/galaxy-s25-ultra.png" alt="Foto do Galaxy S25 Ultra" class="wp-image-923139"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea31edf8&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea31edf8" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/galaxy-s25-ultra.png" alt="Foto do Galaxy S25 Ultra" class="wp-image-923139"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -11742,11 +11742,11 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
                             <li class="toc-guias">
                                             <span class="best-offer-badge">Melhor escolha</span>
                                         <span class="order-badge">1</span>
-                                            <a href="https://produto.mercadolivre.com.br/p/MLB65503988?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="toc-thumb-container">
+                                            <a href="https://produto.mercadolivre.com.br/p/MLB2097214512?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="toc-thumb-container">
                             <img decoding="async" src="https://files.tecnoblog.net/wp-content/uploads/2026/02/galaxy-s26-ultra-violeta-700x700.png" class="toc-thumb">
                         </a>
                                         <div class="toc-desc">
-                        <a href="https://produto.mercadolivre.com.br/p/MLB65503988?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="toc-title icon-external" target="_blank">Galaxy S26 Ultra</a>
+                        <a href="https://produto.mercadolivre.com.br/p/MLB2097214512?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="toc-title icon-external" target="_blank">Galaxy S26 Ultra</a>
                                                     <div class="product-highlights">
                                                                     <div class="display">
                                         <i></i>
@@ -11774,8 +11774,8 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
                                                         <a href="https://www.amazon.com.br/dp/B0GKQFR5FQ?tag=tb-vitrine-dinamica-20&#038;linkCode=ogi&#038;th=1&#038;psc=1" class="amz" target="_blank" rel="sponsored nofollow noopener noreferrer">
                                     <span class="logo"><img decoding="async" src="https://tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png" alt="Amazon"></span> <span class="discount">33% OFF</span>                                    <span class="text">Ver preço</span>
                                 </a>
-                                                            <a href="https://produto.mercadolivre.com.br/p/MLB65503988?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="ml" target="_blank" rel="sponsored nofollow noopener noreferrer">
-                                    <span class="logo"><img decoding="async" src="https://tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png" alt="Mercado Livre"></span>                                    <span class="text">Ver preço</span>
+                                                            <a href="https://produto.mercadolivre.com.br/p/MLB2097214512?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="ml" target="_blank" rel="sponsored nofollow noopener noreferrer">
+                                    <span class="logo"><img decoding="async" src="https://tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png" alt="Mercado Livre"></span> <span class="discount">27% OFF</span>                                    <span class="text">Ver preço</span>
                                 </a>
                                                             <a href="https://shopee.com.br/opaanlp/1083800536/23294872358?__mobile__=1&#038;exp_group=rollout&#038;gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTEmQAAAAzUNHknPlZ3w-XXsK41GsCB-FvrF_ze7BV_-FYlPl9U9ohaxRvC4QsF7WH0IRTK9gSNZgMJuOQCuXBSXSfhDj-g0Gx20lfpq1Ezabaq-_g--KUiQkn0uLEsBj7jscuSXsexG8iRyB7DghPpjyioOLyj4akwraNVq1qRHWvHpX9c17zfT_Ersgq9OjCED6F9Q68MnlzW4g&#038;mmp_pid=an_18132490000&#038;uls_trackid=56ed1l5b00jl&#038;utm_campaign=id_1afddce18ef1562f&#038;utm_content=tbvitrinedinamica----&#038;utm_medium=affiliates&#038;utm_source=an_18132490000&#038;utm_term=feje4j9eptgg" class="shopee" target="_blank" rel="sponsored nofollow noopener noreferrer">
                                     <span class="logo"><img decoding="async" src="https://tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/shopee.png" alt="Shopee"></span>                                    <span class="text">Ver preço</span>
@@ -12159,13 +12159,13 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
                     <div class="oferta" style="position: relative;">
             <div class="widget-header">
                                     <div class="imagem">
-                        <a href="https://produto.mercadolivre.com.br/p/MLB65503988?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="title tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer"><img decoding="async" src="https://files.tecnoblog.net/wp-content/uploads/2026/05/galaxy-s26-ultra_0115.jpg" ></a>
+                        <a href="https://produto.mercadolivre.com.br/p/MLB2097214512?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="title tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer"><img decoding="async" src="https://files.tecnoblog.net/wp-content/uploads/2026/05/galaxy-s26-ultra_0115.jpg" ></a>
                     </div>
                 
                 <div class="widget-info-container">
                     <div class="widget-info">
-                        <a href="https://produto.mercadolivre.com.br/p/MLB65503988?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="title tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">Galaxy S26 Ultra</a>
-                        <a href="https://produto.mercadolivre.com.br/p/MLB65503988?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="price tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 6.782,00</a>
+                        <a href="https://produto.mercadolivre.com.br/p/MLB2097214512?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="title tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">Galaxy S26 Ultra</a>
+                        <a href="https://produto.mercadolivre.com.br/p/MLB2097214512?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="price tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 6.873,83</a>
                     </div>
                                     </div>
 
@@ -12197,9 +12197,9 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
                             </div>
 
             <div class="btns">
-                                        <a href="https://produto.mercadolivre.com.br/p/MLB65503988?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 6.782,00 Mercado Livre</a>
-                                            <a href="https://produto.mercadolivre.com.br/p/MLB2097214512?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 6.873,83 Mercado Livre</a>
-                                            <a href="https://produto.mercadolivre.com.br/p/MLB65503990?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 6.899,00 Mercado Livre</a>
+                                        <a href="https://produto.mercadolivre.com.br/p/MLB2097214512?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 6.873,83 Mercado Livre</a>
+                                            <a href="https://produto.mercadolivre.com.br/p/MLB65503993?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 6.935,00 Mercado Livre</a>
+                                            <a href="https://produto.mercadolivre.com.br/p/MLB2069991761?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 6.994,16 Mercado Livre</a>
                                 </div>
         </div>
     
@@ -12427,8 +12427,8 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
             <div class="btns">
                                         <a href="https://produto.mercadolivre.com.br/p/MLB2073570793?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 4.231,76 Mercado Livre</a>
-                                            <a href="https://produto.mercadolivre.com.br/p/MLB65560106?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 4.349,00 Mercado Livre</a>
-                                            <a href="https://produto.mercadolivre.com.br/p/MLB65560109?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 4.349,00 Mercado Livre</a>
+                                            <a href="https://produto.mercadolivre.com.br/p/MLB65560108?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 4.364,30 Mercado Livre</a>
+                                            <a href="https://produto.mercadolivre.com.br/p/MLB65560109?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 4.394,99 Mercado Livre</a>
                                 </div>
         </div>
     
@@ -13108,7 +13108,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/guias/celular-1tb/">Melhor celular de 1 TB: 10 smartphones para comprar em 2026</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539a9f4d&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539a9f4d" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/iphone-16-1060x596.jpg" alt="" class="wp-image-923016"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea35b2a8&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea35b2a8" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/iphone-16-1060x596.jpg" alt="" class="wp-image-923016"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -13141,11 +13141,11 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
                             <li class="toc-guias">
                                             <span class="best-offer-badge">Melhor escolha</span>
                                         <span class="order-badge">1</span>
-                                            <a href="https://produto.mercadolivre.com.br/p/MLB65503988?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="toc-thumb-container">
+                                            <a href="https://produto.mercadolivre.com.br/p/MLB2097214512?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="toc-thumb-container">
                             <img decoding="async" src="https://files.tecnoblog.net/wp-content/uploads/2026/02/galaxy-s26-ultra-violeta-700x700.png" class="toc-thumb">
                         </a>
                                         <div class="toc-desc">
-                        <a href="https://produto.mercadolivre.com.br/p/MLB65503988?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="toc-title icon-external" target="_blank">Galaxy S26 Ultra</a>
+                        <a href="https://produto.mercadolivre.com.br/p/MLB2097214512?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="toc-title icon-external" target="_blank">Galaxy S26 Ultra</a>
                                                     <div class="product-highlights">
                                                                     <div class="display">
                                         <i></i>
@@ -13173,8 +13173,8 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
                                                         <a href="https://www.amazon.com.br/dp/B0GKQFR5FQ?tag=tb-vitrine-dinamica-20&#038;linkCode=ogi&#038;th=1&#038;psc=1" class="amz" target="_blank" rel="sponsored nofollow noopener noreferrer">
                                     <span class="logo"><img decoding="async" src="https://tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png" alt="Amazon"></span> <span class="discount">33% OFF</span>                                    <span class="text">Ver preço</span>
                                 </a>
-                                                            <a href="https://produto.mercadolivre.com.br/p/MLB65503988?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="ml" target="_blank" rel="sponsored nofollow noopener noreferrer">
-                                    <span class="logo"><img decoding="async" src="https://tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png" alt="Mercado Livre"></span>                                    <span class="text">Ver preço</span>
+                                                            <a href="https://produto.mercadolivre.com.br/p/MLB2097214512?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="ml" target="_blank" rel="sponsored nofollow noopener noreferrer">
+                                    <span class="logo"><img decoding="async" src="https://tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png" alt="Mercado Livre"></span> <span class="discount">27% OFF</span>                                    <span class="text">Ver preço</span>
                                 </a>
                                                             <a href="https://shopee.com.br/opaanlp/1083800536/23294872358?__mobile__=1&#038;exp_group=rollout&#038;gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTEmQAAAAzUNHknPlZ3w-XXsK41GsCB-FvrF_ze7BV_-FYlPl9U9ohaxRvC4QsF7WH0IRTK9gSNZgMJuOQCuXBSXSfhDj-g0Gx20lfpq1Ezabaq-_g--KUiQkn0uLEsBj7jscuSXsexG8iRyB7DghPpjyioOLyj4akwraNVq1qRHWvHpX9c17zfT_Ersgq9OjCED6F9Q68MnlzW4g&#038;mmp_pid=an_18132490000&#038;uls_trackid=56ed1l5b00jl&#038;utm_campaign=id_1afddce18ef1562f&#038;utm_content=tbvitrinedinamica----&#038;utm_medium=affiliates&#038;utm_source=an_18132490000&#038;utm_term=feje4j9eptgg" class="shopee" target="_blank" rel="sponsored nofollow noopener noreferrer">
                                     <span class="logo"><img decoding="async" src="https://tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/shopee.png" alt="Shopee"></span>                                    <span class="text">Ver preço</span>
@@ -13599,7 +13599,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
             <div class="btns">
                                         <a href="https://produto.mercadolivre.com.br/p/MLB65980931?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 10.250,00 Mercado Livre</a>
                                             <a href="https://produto.mercadolivre.com.br/p/MLB66010938?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 10.500,00 Mercado Livre</a>
-                                            <a href="https://produto.mercadolivre.com.br/p/MLB65980929?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 10.500,00 Mercado Livre</a>
+                                            <a href="https://produto.mercadolivre.com.br/p/MLB65980932?matt_word=tbvitrinedinamica&#038;matt_tool=88130552&#038;forceInApp=true" class="link tb-block-link" target="_blank" rel="sponsored nofollow noopener noreferrer">R$ 10.799,00 Mercado Livre</a>
                                 </div>
         </div>
     
@@ -14542,7 +14542,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539d76e0&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539d76e0" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/77926-d-1-1060x596.webp" alt="Mulher sentada com um relógio inteligente, olhando para cima em um fundo azul" class="wp-image-923648"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea39f1de&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea39f1de" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/77926-d-1-1060x596.webp" alt="Mulher sentada com um relógio inteligente, olhando para cima em um fundo azul" class="wp-image-923648"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -14571,7 +14571,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539d7e31&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539d7e31" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/77926-d-3-1060x596.webp" alt="Pessoa acendendo a lanterna do relógio" class="wp-image-923649"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea39f9c2&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea39f9c2" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/77926-d-3-1060x596.webp" alt="Pessoa acendendo a lanterna do relógio" class="wp-image-923649"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -14691,7 +14691,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539da8fe&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539da8fe" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/03/como-usar-o-login-do-facebook-para-acessar-o-instagram-1060x795.png" alt="Telas de login do Instagram com credenciais do Facebook e botão Entrar, com setas apontando os campos de acesso (imagem: Lupa Charleaux/Tecnoblog)" class="wp-image-923653"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3a32ec&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3a32ec" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/03/como-usar-o-login-do-facebook-para-acessar-o-instagram-1060x795.png" alt="Telas de login do Instagram com credenciais do Facebook e botão Entrar, com setas apontando os campos de acesso (imagem: Lupa Charleaux/Tecnoblog)" class="wp-image-923653"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -14746,7 +14746,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539daff2&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539daff2" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/03/como-adicionar-uma-conta-da-central-de-contas-da-meta-1060x795.png" alt="Telefones mostram a etapa de adicionar e permitir o perfil do Instagram na Central de Contas da Meta" class="wp-image-923652"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3a4c7a&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3a4c7a" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/03/como-adicionar-uma-conta-da-central-de-contas-da-meta-1060x795.png" alt="Telefones mostram a etapa de adicionar e permitir o perfil do Instagram na Central de Contas da Meta" class="wp-image-923652"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -14915,7 +14915,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539de62c&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539de62c" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/01/garmin-forerunner-55-achados-2-1060x596.png" alt="Garmin Forerunner 55 (Imagem: Divulgação/Garmin)" class="wp-image-879392"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3ab81e&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3ab81e" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/01/garmin-forerunner-55-achados-2-1060x596.png" alt="Garmin Forerunner 55 (Imagem: Divulgação/Garmin)" class="wp-image-879392"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -14944,7 +14944,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539defda&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539defda" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/01/garmin-forerunner-55-1060x596.png" alt="Mulher praticando corrida com um Garmin Forerunner no pulso." class="wp-image-877565"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3ac409&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3ac409" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/01/garmin-forerunner-55-1060x596.png" alt="Mulher praticando corrida com um Garmin Forerunner no pulso." class="wp-image-877565"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15013,7 +15013,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/desenvolvedores-ja-burlam-nova-marca-dagua-de-texto-do-claude/">Desenvolvedores já burlam nova marca d&#8217;água de texto do Claude</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539e149e&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539e149e" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4-1060x596.jpg" alt="Ilustração gráfica com fundo laranja-terracota de textura levemente granulada, dominada por uma grande estrela geométrica de muitos raios na cor bege-clara centralizada, cujas pontas se estendem até as bordas, acompanhada por partes de outras estrelas similares nas extremidades; no centro exato da composição, a palavra &quot;Claude&quot; está escrita em tamanho pequeno com fonte preta com serifa, e o logotipo do portal &quot;tecnoblog&quot; aparece no canto inferior direito em letras brancas." class="wp-image-916373"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3b078c&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3b078c" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4-1060x596.jpg" alt="Ilustração gráfica com fundo laranja-terracota de textura levemente granulada, dominada por uma grande estrela geométrica de muitos raios na cor bege-clara centralizada, cujas pontas se estendem até as bordas, acompanhada por partes de outras estrelas similares nas extremidades; no centro exato da composição, a palavra &quot;Claude&quot; está escrita em tamanho pequeno com fonte preta com serifa, e o logotipo do portal &quot;tecnoblog&quot; aparece no canto inferior direito em letras brancas." class="wp-image-916373"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15057,7 +15057,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539e1cc7&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539e1cc7" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-7-1060x596.jpg" alt="Ilustração artística em estilo conceitual sobre fundo bege, coberto pela palavra &quot;Claude&quot; repetida em letras brancas na vertical, mostrando no centro o contorno estilizado de uma silhueta humana preta com um diagrama de rede neural de nós e linhas pretas em seu interior, e uma explosão estelar geométrica laranja-terracota atrás de sua cabeça, com o logotipo &quot;tecnoblog&quot; no canto inferior direito." class="wp-image-916370"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3b12e7&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3b12e7" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-7-1060x596.jpg" alt="Ilustração artística em estilo conceitual sobre fundo bege, coberto pela palavra &quot;Claude&quot; repetida em letras brancas na vertical, mostrando no centro o contorno estilizado de uma silhueta humana preta com um diagrama de rede neural de nós e linhas pretas em seu interior, e uma explosão estelar geométrica laranja-terracota atrás de sua cabeça, com o logotipo &quot;tecnoblog&quot; no canto inferior direito." class="wp-image-916370"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15094,7 +15094,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539e245a&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539e245a" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/synthid_-a-tool-for-watermarking-and-identifying-ai-generated-content-1-11-screenshot-1060x596.png" alt="Captura de tela de vídeo explicativo sobre o SynthID" class="wp-image-922901"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3b213b&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3b213b" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/synthid_-a-tool-for-watermarking-and-identifying-ai-generated-content-1-11-screenshot-1060x596.png" alt="Captura de tela de vídeo explicativo sobre o SynthID" class="wp-image-922901"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15169,7 +15169,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/windows-11-vai-permitir-bloquear-camera-e-microfone-em-qualquer-aplicativo/">Windows 11 vai permitir bloquear câmera e microfone em qualquer aplicativo</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539e80f2&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539e80f2" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/04/windows-11-home-25h2-1060x596.jpg" alt="Windows 11 versão 25H2" class="wp-image-891199"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3bbf31&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3bbf31" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/04/windows-11-home-25h2-1060x596.jpg" alt="Windows 11 versão 25H2" class="wp-image-891199"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15221,7 +15221,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539e88dd&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539e88dd" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="910" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/windows-11-controle-camera-1060x910.jpg" alt="Controle de câmera nas configurações do Windows 11" class="wp-image-923567"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3bcf11&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3bcf11" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="910" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/windows-11-controle-camera-1060x910.jpg" alt="Controle de câmera nas configurações do Windows 11" class="wp-image-923567"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15368,7 +15368,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539eaedf&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539eaedf" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="750" height="422" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/05/nintendo-switch-2-02-edited.jpeg" alt="imagem do Nintendo Switch 2" class="wp-image-897794"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3c0934&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3c0934" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="750" height="422" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/05/nintendo-switch-2-02-edited.jpeg" alt="imagem do Nintendo Switch 2" class="wp-image-897794"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15397,7 +15397,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d539eb748&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d539eb748" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="750" height="441" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2025/11/nintendo-switch-2-05.png" alt="imagem do Nintendo Switch 2" class="wp-image-866457"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3c1495&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3c1495" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="750" height="441" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2025/11/nintendo-switch-2-05.png" alt="imagem do Nintendo Switch 2" class="wp-image-866457"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15467,7 +15467,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/lg-muda-fabricacao-de-telas-oled-para-reduzir-custos/">LG muda fabricação de telas OLED para reduzir custos</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a00fac&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a00fac" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2021/11/tv-oled-lg-evo-g1-6-1060x596.jpg" alt="Imagem mostra um controle LG sendo segurado em uma mão, com uma TV OLED ao fundo" class="wp-image-535310"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3cf418&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3cf418" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2021/11/tv-oled-lg-evo-g1-6-1060x596.jpg" alt="Imagem mostra um controle LG sendo segurado em uma mão, com uma TV OLED ao fundo" class="wp-image-535310"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15511,7 +15511,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a01c0f&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a01c0f" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2023/01/lg-capa-2-1060x596.png" alt="Imagem mostra o logo da LG ao centro, sobre a imagem de uma mulher trocando o canl de uma TV da LG. " class="wp-image-666263"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3d033c&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3d033c" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2023/01/lg-capa-2-1060x596.png" alt="Imagem mostra o logo da LG ao centro, sobre a imagem de uma mulher trocando o canl de uma TV da LG. " class="wp-image-666263"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15548,7 +15548,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a027bd&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a027bd" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="1500" height="844" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2020/08/tv-oled-lg-cx-review-7.jpg" alt="Imagem mostra uma TV OLED da LG com o canal do YouTube do Tecnoblog em destaque" class="wp-image-362050"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3d0ee3&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3d0ee3" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="1500" height="844" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2020/08/tv-oled-lg-cx-review-7.jpg" alt="Imagem mostra uma TV OLED da LG com o canal do YouTube do Tecnoblog em destaque" class="wp-image-362050"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15803,7 +15803,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/memoria-ram-chinesa-quebra-barreira-e-pode-ser-bom-sinal-para-crise/">Memória RAM chinesa quebra barreira e pode ser bom sinal para crise</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a0b315&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a0b315" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/colorful-image-memorias-ddr5-1060x596.jpg" alt="As memórias Colorful iGame Shadow II" class="wp-image-923455"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3db222&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3db222" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/colorful-image-memorias-ddr5-1060x596.jpg" alt="As memórias Colorful iGame Shadow II" class="wp-image-923455"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15863,7 +15863,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a0bdfd&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a0bdfd" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="594" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/07/cxmt-memorias-1060x594.jpg" alt="Memórias LPDDR5X da CXMT" class="wp-image-915769"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3dc0d3&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3dc0d3" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="594" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/07/cxmt-memorias-1060x594.jpg" alt="Memórias LPDDR5X da CXMT" class="wp-image-915769"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15927,7 +15927,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/justwatch-diz-que-ordem-judicial-tirou-site-das-buscas-do-google-no-brasil/">JustWatch critica Google por sumiço dos resultados de busca</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a0ded8&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a0ded8" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="2159" height="1214" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/justwatch-netflix-edited.png" alt="Imagem mostra a página do JustWatch em vários dispositivos" class="wp-image-923434"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3de297&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3de297" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="2159" height="1214" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/justwatch-netflix-edited.png" alt="Imagem mostra a página do JustWatch em vários dispositivos" class="wp-image-923434"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -15963,7 +15963,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a0e7a0&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a0e7a0" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="998" height="822" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/captura-de-tela-2026-08-19-124452.png" alt="Trecho do recurso apresentado pelo JustWatch ao Google sobre remoção do domínio justwatch.com " class="wp-image-923432"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea3deb5f&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea3deb5f" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="998" height="822" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/captura-de-tela-2026-08-19-124452.png" alt="Trecho do recurso apresentado pelo JustWatch ao Google sobre remoção do domínio justwatch.com " class="wp-image-923432"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -16329,7 +16329,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/china-bane-versao-especial-do-windows-10-em-orgaos-de-governo/">China bane versão especial do Windows 10 em órgãos de governo</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a1fd2c&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a1fd2c" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="595" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2025/03/windows-10-tela-1060x595.jpg" alt="Monitor exibindo janela que informa que o PC tem o Windows 10" class="wp-image-816957"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea40818e&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea40818e" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="595" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2025/03/windows-10-tela-1060x595.jpg" alt="Monitor exibindo janela que informa que o PC tem o Windows 10" class="wp-image-816957"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -16381,7 +16381,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a20b2e&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a20b2e" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/05/windows-10-1060x596.jpg" alt="Área de Trabalho do Windows 10" class="wp-image-902291"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea409061&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea409061" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/05/windows-10-1060x596.jpg" alt="Área de Trabalho do Windows 10" class="wp-image-902291"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -16455,7 +16455,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/claude-agora-pode-enviar-e-mails-pelo-gmail-sem-intervencao-do-usuario/">Claude agora pode enviar e-mails pelo Gmail por conta própria</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a238ef&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a238ef" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4-1060x596.jpg" alt="Ilustração gráfica com fundo laranja-terracota de textura levemente granulada, dominada por uma grande estrela geométrica de muitos raios na cor bege-clara centralizada, cujas pontas se estendem até as bordas, acompanhada por partes de outras estrelas similares nas extremidades; no centro exato da composição, a palavra &quot;Claude&quot; está escrita em tamanho pequeno com fonte preta com serifa, e o logotipo do portal &quot;tecnoblog&quot; aparece no canto inferior direito em letras brancas." class="wp-image-916373"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea40c7be&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea40c7be" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4-1060x596.jpg" alt="Ilustração gráfica com fundo laranja-terracota de textura levemente granulada, dominada por uma grande estrela geométrica de muitos raios na cor bege-clara centralizada, cujas pontas se estendem até as bordas, acompanhada por partes de outras estrelas similares nas extremidades; no centro exato da composição, a palavra &quot;Claude&quot; está escrita em tamanho pequeno com fonte preta com serifa, e o logotipo do portal &quot;tecnoblog&quot; aparece no canto inferior direito em letras brancas." class="wp-image-916373"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -16513,7 +16513,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a241dc&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a241dc" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/anthropic-gmail-1060x596.jpeg" alt="Claude no conector do Google Workspace, enviando resposta por Gmail " class="wp-image-923348"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea40d65d&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea40d65d" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/anthropic-gmail-1060x596.jpeg" alt="Claude no conector do Google Workspace, enviando resposta por Gmail " class="wp-image-923348"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -16620,7 +16620,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a25f50&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a25f50" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2021/05/como-ocultar-suas-curtidas-do-instagram-para-outras-pessoas-1060x795.png" alt="Tela do Instagram com a opção “Atividade no feed Amigos” configurada para “Ninguém”, ocultando suas curtidas no feed" class="wp-image-923356"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea40fe97&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea40fe97" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2021/05/como-ocultar-suas-curtidas-do-instagram-para-outras-pessoas-1060x795.png" alt="Tela do Instagram com a opção “Atividade no feed Amigos” configurada para “Ninguém”, ocultando suas curtidas no feed" class="wp-image-923356"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -16663,7 +16663,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a26537&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a26537" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2021/05/como-ocultar-o-numero-de-curtidas-nos-meus-posts-do-instagram-1060x795.png" alt="Ativar “Ocultar número de curtidas e compartilhamentos” no Instagram impede seguidores de verem quem interagiu com seus posts" class="wp-image-923355"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea410943&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea410943" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="795" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2021/05/como-ocultar-o-numero-de-curtidas-nos-meus-posts-do-instagram-1060x795.png" alt="Ativar “Ocultar número de curtidas e compartilhamentos” no Instagram impede seguidores de verem quem interagiu com seus posts" class="wp-image-923355"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -16767,7 +16767,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/iphone-18-por-que-o-pro-max-sera-superior-ao-pro-para-alem-do-tamanho/">iPhone 18 Pro Max deve superar o Pro (para além do tamanho)</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a288f7&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a288f7" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/02/iphone-17-pro-max-4-1060x597.jpg" alt="Traseira iPhone 17 Pro Max" class="wp-image-883484" /><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea414fd8&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea414fd8" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/02/iphone-17-pro-max-4-1060x597.jpg" alt="Traseira iPhone 17 Pro Max" class="wp-image-883484" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -16811,7 +16811,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a291f7&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a291f7" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/02/iphone-17-pro-max-1-1060x597.jpg" alt="iPhone 17 Pro Max (foto: Thássius Veloso/Tecnoblog)" class="wp-image-883481" /><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea4158d7&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea4158d7" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/02/iphone-17-pro-max-1-1060x597.jpg" alt="iPhone 17 Pro Max (foto: Thássius Veloso/Tecnoblog)" class="wp-image-883481" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -16848,7 +16848,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a299e5&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a299e5" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="707" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/06/iphone-18-fold-4-edited-1060x707.webp" alt="Imagem mostra um comparativo entre um suposto iPhone dobrável preto, com módulo em “pílula” para duas câmeras principais, e um iPhone 17 Pro Max." class="wp-image-909264" /><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea416582&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea416582" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="707" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/06/iphone-18-fold-4-edited-1060x707.webp" alt="Imagem mostra um comparativo entre um suposto iPhone dobrável preto, com módulo em “pílula” para duas câmeras principais, e um iPhone 17 Pro Max." class="wp-image-909264" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -16914,7 +16914,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/congresso-dos-eua-sofre-com-projetos-de-lei-gerados-por-ia/">Congresso dos EUA sofre com projetos de lei gerados por IA</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a2c1d1&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a2c1d1" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="4752" height="2672" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/9977050093_2965bfafed_o-edited.jpg" alt="Imagem mostra o prédio do Congresso Americano" class="wp-image-923333"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea41931f&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea41931f" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="4752" height="2672" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/9977050093_2965bfafed_o-edited.jpg" alt="Imagem mostra o prédio do Congresso Americano" class="wp-image-923333"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -16970,7 +16970,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a2c9ae&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a2c9ae" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/07/ia-3-edited-1060x597.png" alt="Uma ilustração digital em tons de laranja e marrom escuro, representando inteligência artificial. O olho direito está em foco e o nariz e a bochecha são formados por linhas retas e blocos, como se a imagem estivesse sendo construída por pixels e códigos. À esquerda e ao fundo, linhas e números de programação em alto-relevo se estendem por toda a imagem, que possui um gradiente de tons quentes, do mais claro ao mais escuro. No canto inferior direito, o logotipo &quot;tecnoblog&quot; aparece em branco." class="wp-image-773818"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea41a1c3&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea41a1c3" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="597" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/07/ia-3-edited-1060x597.png" alt="Uma ilustração digital em tons de laranja e marrom escuro, representando inteligência artificial. O olho direito está em foco e o nariz e a bochecha são formados por linhas retas e blocos, como se a imagem estivesse sendo construída por pixels e códigos. À esquerda e ao fundo, linhas e números de programação em alto-relevo se estendem por toda a imagem, que possui um gradiente de tons quentes, do mais claro ao mais escuro. No canto inferior direito, o logotipo &quot;tecnoblog&quot; aparece em branco." class="wp-image-773818"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -17007,7 +17007,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a2d04a&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a2d04a" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="562" height="639" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/07/image-43.png" alt="Menu do LinkedIn mostrando o botão “Seems like AI slop” para denunciar publicações suspeitas de IA" class="wp-image-916797"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea41ae09&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea41ae09" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="562" height="639" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/07/image-43.png" alt="Menu do LinkedIn mostrando o botão “Seems like AI slop” para denunciar publicações suspeitas de IA" class="wp-image-916797"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -17076,7 +17076,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/empresario-do-pr-hackeia-concorrente-e-tenta-roubar-os-clientes/">Empresário do PR hackeia concorrente e tenta “roubar” os clientes</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a2ef47&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a2ef47" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/03/capa_tbr-spyware-1060x596.png" alt="ilustração sobre spyware" class="wp-image-889391"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea41de33&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea41de33" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/03/capa_tbr-spyware-1060x596.png" alt="ilustração sobre spyware" class="wp-image-889391"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -17128,7 +17128,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a2f6b1&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a2f6b1" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="1000" height="562" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/img_1721.jpeg" alt="" class="wp-image-923280"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea41e824&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea41e824" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="1000" height="562" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/img_1721.jpeg" alt="" class="wp-image-923280"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -17206,7 +17206,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/copilot-ensinou-pesquisadores-a-hackear-o-proprio-sistema/">Copilot “ensinou” pesquisadores a hackear o próprio sistema</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a35562&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a35562" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-copilot-2-1060x596.png" alt="O logo do Microsoft Copilot, composto por quatro formas que se conectam, cada uma em uma cor vibrante (azul, ciano, amarelo e roxo), em um fundo de gradiente suave com as mesmas cores do logo. O logo está centralizado em um quadrado branco com bordas arredondadas. No canto inferior direito, a marca d'água &quot;tecnoblog&quot; é visível." class="wp-image-795298"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea424ba3&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea424ba3" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-copilot-2-1060x596.png" alt="O logo do Microsoft Copilot, composto por quatro formas que se conectam, cada uma em uma cor vibrante (azul, ciano, amarelo e roxo), em um fundo de gradiente suave com as mesmas cores do logo. O logo está centralizado em um quadrado branco com bordas arredondadas. No canto inferior direito, a marca d'água &quot;tecnoblog&quot; é visível." class="wp-image-795298"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -17262,7 +17262,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a35cc3&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a35cc3" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="710" height="548" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/cosnitch-.webp" alt="" class="wp-image-923207"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea42560e&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea42560e" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="710" height="548" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/cosnitch-.webp" alt="" class="wp-image-923207"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -17332,7 +17332,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/firefox-ganha-mais-recursos-de-ia-calma-eles-sao-opcionais/">Firefox ganha mais recursos de IA (calma, eles são opcionais)</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a377d4&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a377d4" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-mozila-tb-1060x596.png" alt="Imagem mostra o logo do navegador Mozilla Firefox, que é uma raposa laranja e amarela abraçando um globo roxo e azul. Há dois outros logos menores e desfocados ao fundo, em um cenário de degradê de tons rosa e roxo. No canto superior direito, a marca d'água &quot;tecnoblog&quot; é visível." class="wp-image-750955"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea42794f&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea42794f" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-mozila-tb-1060x596.png" alt="Imagem mostra o logo do navegador Mozilla Firefox, que é uma raposa laranja e amarela abraçando um globo roxo e azul. Há dois outros logos menores e desfocados ao fundo, em um cenário de degradê de tons rosa e roxo. No canto superior direito, a marca d'água &quot;tecnoblog&quot; é visível." class="wp-image-750955"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -17468,7 +17468,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/codigo-do-macos-tahoe-revela-possiveis-novos-produtos-da-apple-veja-a-lista/">MacBooks, iPhones, iPads: código do macOS dá pistas de futuros produtos</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a3e491&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a3e491" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/12/capas-apple-06-1060x596.png" alt="Logo da Apple no centro, expandindo na direção do leitor, num fundo amarelo, rosa e violeta escuro." class="wp-image-800723"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea42efd0&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea42efd0" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/12/capas-apple-06-1060x596.png" alt="Logo da Apple no centro, expandindo na direção do leitor, num fundo amarelo, rosa e violeta escuro." class="wp-image-800723"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -17520,7 +17520,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a3f2cb&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a3f2cb" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="707" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/06/iphone-fold-1-edited-1060x707.webp" alt="A traseira de um suposto iPhone dobrável preto, com módulo em “pílula” para duas câmeras principais e logo Apple" class="wp-image-909238"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea42fabf&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea42fabf" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="707" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/06/iphone-fold-1-edited-1060x707.webp" alt="A traseira de um suposto iPhone dobrável preto, com módulo em “pílula” para duas câmeras principais e logo Apple" class="wp-image-909238"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -17553,7 +17553,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a3fd01&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a3fd01" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="707" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/03/apple-macbook-pro-m5-pro-and-m5-max-lifestyle-02-260303_big-jpg-large_2x-1060x707.jpg" alt="Pessoa editando imagens em um MacBook Pro" class="wp-image-884748"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea43055c&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea43055c" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="707" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/03/apple-macbook-pro-m5-pro-and-m5-max-lifestyle-02-260303_big-jpg-large_2x-1060x707.jpg" alt="Pessoa editando imagens em um MacBook Pro" class="wp-image-884748"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -17729,7 +17729,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 <p><a href="https://tecnoblog.net/noticias/microsoft-revela-novo-menu-de-contexto-no-windows-11-veja-o-que-muda/">Microsoft revela novo menu de contexto no Windows 11; veja o que muda</a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a42902&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a42902" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/04/windows-11-home-25h2-1060x596.jpg" alt="Windows 11 versão 25H2" class="wp-image-891199"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea432dd8&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea432dd8" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/04/windows-11-home-25h2-1060x596.jpg" alt="Windows 11 versão 25H2" class="wp-image-891199"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -17773,7 +17773,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a4322a&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a4322a" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="959" height="720" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/windows-11-menu-contexto.jpg" alt="O novo menu de contexto do Windows 11" class="wp-image-923075"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea4336c7&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea4336c7" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="959" height="720" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/windows-11-menu-contexto.jpg" alt="O novo menu de contexto do Windows 11" class="wp-image-923075"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -17816,7 +17816,7 @@ if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){tr
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87d53a43922&quot;}" data-wp-interactive="core/image" data-wp-key="6a87d53a43922" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="760" height="1024" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/windows-11-menu-contexto-configuracao.jpg" alt="Opções de personalização do novo menu de contexto do Windows 11" class="wp-image-923076"/><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6a87dea433fbb&quot;}" data-wp-interactive="core/image" data-wp-key="6a87dea433fbb" class="wp-block-image size-full wp-lightbox-container"><img decoding="async" width="760" height="1024" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2026/08/windows-11-menu-contexto-configuracao.jpg" alt="Opções de personalização do novo menu de contexto do Windows 11" class="wp-image-923076"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -20655,8 +20655,6 @@ A fricção entre os dois continua intacta.</p>
     <pubDate>Thu, 20 Aug 2026 22:00:03 +0000</pubDate>
     <author><![CDATA[André Lourenti Magalhães]]></author>
     <dc:creator><![CDATA[André Lourenti Magalhães]]></dc:creator>
-  
-    <enclosure url="https://tl.ctcdn.com.br/3CSM6be9ecXP44C9fzyLgyX7r_o=/1200x675/smart/filters:format(webp):quality(85)/cae8d318-2816-446f-b947-035af4c3a7ea.png" type="image/jpeg" />
   </item>
 <item>
     <title><![CDATA[GTA 6 mal lançou e já trouxe 5 práticas negativas aos consumidores]]></title>
@@ -20995,8 +20993,6 @@ A fricção entre os dois continua intacta.</p>
     <pubDate>Thu, 20 Aug 2026 20:00:02 +0000</pubDate>
     <author><![CDATA[Danielle Cassita]]></author>
     <dc:creator><![CDATA[Danielle Cassita]]></dc:creator>
-  
-    <enclosure url="https://tl.ctcdn.com.br/SwfO2mVpttFJaOGO1moeCoh2IU0=/1200x675/smart/filters:format(webp):quality(85)/c9961f7f-b4ac-42be-8001-71694c79182f.png" type="image/jpeg" />
   </item>
 <item>
     <title><![CDATA["Discman do futuro" une USB-C, áudio hi-fi, Bluetooth 6.0 e bateria para 12h de música]]></title>
@@ -21217,8 +21213,6 @@ A fricção entre os dois continua intacta.</p>
     <pubDate>Thu, 20 Aug 2026 18:25:00 +0000</pubDate>
     <author><![CDATA[Gabriel Cavalheiro]]></author>
     <dc:creator><![CDATA[Gabriel Cavalheiro]]></dc:creator>
-  
-    <enclosure url="https://tl.ctcdn.com.br/E0o0vXosjKwcv5FySbJ4R_R5O6o=/1200x675/smart/filters:format(webp):quality(85)/dd236c35-7b44-463f-8e5b-3b1bbce0fe1f.png" type="image/jpeg" />
   </item>
 <item>
     <title><![CDATA[Vazamento grave da Latam expõe dados pessoais, milhas e cartões de clientes]]></title>
@@ -21237,8 +21231,6 @@ A fricção entre os dois continua intacta.</p>
     <pubDate>Thu, 20 Aug 2026 18:17:55 +0000</pubDate>
     <author><![CDATA[André Lourenti Magalhães]]></author>
     <dc:creator><![CDATA[André Lourenti Magalhães]]></dc:creator>
-  
-    <enclosure url="https://tl.ctcdn.com.br/QXIJ-sAF_HH-5Xw7KU6kUzHYKeQ=/1200x675/smart/filters:format(webp):quality(85)/6298e8a1-a8b7-4b36-8f2d-d73481fe8610.png" type="image/jpeg" />
   </item>
 <item>
     <title><![CDATA[Carro centenário brasileiro é premiado nos Estados Unidos]]></title>
@@ -21504,8 +21496,6 @@ A fricção entre os dois continua intacta.</p>
     <pubDate>Thu, 20 Aug 2026 16:17:00 +0000</pubDate>
     <author><![CDATA[Raphael Giannotti]]></author>
     <dc:creator><![CDATA[Raphael Giannotti]]></dc:creator>
-  
-    <enclosure url="https://tl.ctcdn.com.br/m9tpt0r-54v2S2mI6VVqDT_ABrk=/1200x675/smart/filters:format(webp):quality(85)/0d5b8c75-54ad-443e-a857-e1e687680e9c.png" type="image/jpeg" />
   </item>
 <item>
     <title><![CDATA[Devs conseguem burlar marca d'água do Claude para textos em poucas horas]]></title>
@@ -22071,8 +22061,6 @@ A fricção entre os dois continua intacta.</p>
     <pubDate>Thu, 20 Aug 2026 12:43:00 +0000</pubDate>
     <author><![CDATA[Raphael Giannotti]]></author>
     <dc:creator><![CDATA[Raphael Giannotti]]></dc:creator>
-  
-    <enclosure url="https://tl.ctcdn.com.br/mUDJENHNwPxlqvbkc7LfdDQ_d04=/1200x675/smart/filters:format(webp):quality(85)/2af99789-a930-4da2-a243-cda056f08cf4.png" type="image/jpeg" />
   </item>
 <item>
     <title><![CDATA[Direito ao reparo: Projeto de Lei pode "baratear" revisões de carros]]></title>
@@ -79197,6 +79185,93 @@ The post <a href="https://poltronanerd.com.br/games2/bis-e-uno-anunciam-collab-i
 		
 			</item>
 <item>
+				<title>2026 LCK 결승전 티켓, 8월 27일 판매 시작으로 열기 고조</title>
+				<link>https://observatoriodocinema.com.br/kr/2026-lck-finals-tickets/</link>
+				
+				<dc:creator><![CDATA[지아 박]]></dc:creator>
+				<pubDate>Fri, 21 Aug 2026 05:20:44 +0000</pubDate>
+						<category><![CDATA[Kr]]></category>
+		<category><![CDATA[e스포츠 티켓]]></category>
+		<category><![CDATA[Feed Control]]></category>
+		<category><![CDATA[kspo 돔]]></category>
+		<category><![CDATA[lck finals tickets]]></category>
+		<category><![CDATA[lck 결승전]]></category>
+		<category><![CDATA[riot games]]></category>
+		<category><![CDATA[우리은행 lck]]></category>
+				<guid isPermaLink="false">https://observatoriodocinema.com.br/cultura-pop/2026-lck-finals-tickets/</guid>
+
+									<description><![CDATA[<p>라이엇 게임즈는 2026 우리은행 LCK 결승 진출전 및 결승전 LCK Finals tickets 판매를 8월 27일부터 개시한다고 발표했습니다. 팬들의 피드백을 반영해 2차에 걸쳐 판매됩니다.</p>
+<p>O post <a rel="nofollow" href="https://observatoriodocinema.com.br/kr/2026-lck-finals-tickets/">2026 LCK 결승전 티켓, 8월 27일 판매 시작으로 열기 고조</a> apareceu primeiro em <a rel="nofollow" href="https://observatoriodocinema.com.br">Observatório do Cinema</a>.</p>
+]]></description>
+																<content:encoded><![CDATA[<figure><img src="https://cdn.observatoriodocinema.com.br/2026/08/2026-lck-finals-tickets-1024x538.jpg" alt="LCK Finals tickets: 2026 LCK 결승전 티켓, 8월 27일 판매 시작으로 열기 고조"/><figcaption>라이엇 게임즈는 2026 우리은행 LCK 결승 진출전 및 결승전 LCK Finals tickets 판매를 8월 27일부터 개시한다고 발표했습니다. 팬들의 피드백을 반영해 2차에 걸쳐 판매됩니다.</figcaption></figure>
+<p class="wp-block-paragraph">라이엇 게임즈는 2026 우리은행 LCK 결승 진출전과 결승전의 LCK Finals tickets 판매를 8월 27일부터 시작한다고 발표했습니다. 서울 송파구 KSPO 돔에서 열리는 이번 대규모 행사는 9월 12일 결승 진출전, 9월 13일 결승전으로 예정되어 있습니다. 팬들은 두 차례에 걸쳐 티켓을 예매할 기회를 갖게 됩니다.</p>
+
+
+
+<p class="wp-block-paragraph">팬들의 뜨거운 관심 속에서 진행될 이번 티켓 판매는 대진 확정 전과 후에 나누어 진행됩니다. 이는 팬들의 피드백을 적극 반영한 결과로, 많은 e스포츠 팬들에게 더 폭넓은 예매 기회를 제공하려는 노력입니다. 또한 새로운 게임의 테스터 모집 소식만큼이나 게이머들의 이목을 집중시키고 있습니다.</p>
+
+
+
+<h2 class="wp-block-heading">2026 LCK 결승전 티켓, 팬 피드백 반영해 2차 판매</h2>
+
+
+
+<p class="wp-block-paragraph">티켓 판매는 두 단계로 나뉘어 진행됩니다. 1차 판매에서는 8월 27일 목요일 오후 2시부터 결승 진출전 티켓이 풀리고, 이어서 8월 28일 금요일 오후 2시에는 결승전 티켓 예매가 시작됩니다. 모든 티켓은 국내 팬들을 위한 NOL과 해외 팬들을 위한 NOL 월드 플랫폼을 통해 구매 가능합니다.</p>
+
+
+
+<p class="wp-block-paragraph">대진표가 최종 확정된 후의 2차 판매는 9월 7일 월요일 오후 2시에 결승 진출전 티켓으로 문을 엽니다. 다음 날인 9월 8일 화요일 오후 2시에는 결승전 티켓이 다시 오픈됩니다. 이러한 방식은 예측 불가능한 변수를 줄이고 팬들이 선호하는 경기를 선택할 수 있도록 돕습니다.</p>
+
+
+
+<p class="wp-block-paragraph">각 판매 시기에 맞춰 원하는 좌석을 확보하는 것이 중요합니다. 특히 결승전 티켓은 경쟁이 치열할 것으로 예상돼, 팬들의 빠른 예매 행동이 요구됩니다. 인기 좌석을 선점하기 위한 경쟁은 매년 뜨겁습니다.</p>
+
+
+
+<h2 class="wp-block-heading">좌석별 가격 및 경기 일정 상세 정보</h2>
+
+
+
+<p class="wp-block-paragraph">이번 2026 우리은행 LCK Finals tickets은 좌석 등급에 따라 가격이 상이합니다. 결승 진출전의 경우 R석은 120,000원, S석은 100,000원, A석은 80,000원으로 책정되었습니다. <a href="https://observatoriodocinema.com.br/kr/ps5-pro-controller-razer-deal/">고성능 컨트롤러의 가격</a>과 비교해봐도 상당한 금액이지만, 그만큼의 가치를 제공할 것으로 기대됩니다.</p>
+
+
+
+<p class="wp-block-paragraph">대망의 그랜드 파이널 티켓은 R석이 140,000원, S석이 120,000원, 그리고 A석이 100,000원입니다. 이는 e스포츠 최고 수준의 경기를 현장에서 경험할 수 있는 기회입니다. 팬들은 최고의 경기를 직접 관람하기 위해 기꺼이 지갑을 열 준비가 되어 있습니다.</p>
+
+
+
+<p class="wp-block-paragraph">결승 진출전은 9월 12일 토요일 오후 2시에, 2026 LCK 결승전은 9월 13일 일요일 오후 2시에 동일한 KSPO 돔에서 진행됩니다. 이틀 연속으로 펼쳐지는 최고 수준의 경기는 팬들에게 잊지 못할 경험을 선사할 것입니다.</p>
+
+
+
+<h2 class="wp-block-heading">광범위한 방송 중계와 LCK의 새로운 시스템</h2>
+
+
+
+<p class="wp-block-paragraph">현장을 방문하지 못하는 팬들을 위해 다양한 온라인 플랫폼을 통한 생중계도 예정되어 있습니다. Chzzk와 SOOP 등 여러 채널에서 전 경기를 시청할 수 있습니다.</p>
+
+
+
+<p class="wp-block-paragraph">특히 MBC는 2027년까지 2026 LCK 결승전을 국내 지상파 방송으로 방송할 예정입니다. 이는 LCK가 단순한 온라인 e스포츠를 넘어 대중적인 미디어 콘텐츠로서의 위상을 확고히 했음을 보여줍니다. 이러한 광범위한 중계는 LCK의 팬덤 확장에 크게 기여할 것입니다.</p>
+
+
+
+<p class="wp-block-paragraph">과거 <a href="https://observatoriodocinema.com.br/kr/red-dead-redemption-multiplayer-bugs/">멀티플레이 게임의 버그 사태</a>와는 다른 긍정적인 파급력을 기대할 수 있습니다. LCK는 2025년부터 단일 시즌, 단일 챔피언 시스템을 도입하며 리그 운영에 변화를 주었습니다. 4월부터 시작된 정규 시즌은 이미 1, 2라운드를 거쳤습니다.</p>
+
+
+
+<p class="wp-block-paragraph">8월 26일부터는 플레이-인 스테이지가 시작되어 결승으로 향하는 여정이 본격화됩니다. 이 시스템은 리그의 긴장감을 높이고, 팬들에게 더욱 예측 불가능한 재미를 선사하고 있습니다. 결승전은 이러한 치열한 경쟁의 정점을 찍는 무대가 될 것입니다.</p>
+
+
+
+<p class="wp-block-paragraph">팬들은 올해도 역대급 명승부를 기대하며 다가올 결승 주간을 손꼽아 기다리고 있습니다. e스포츠의 열기는 식을 줄 모르고 뜨거워지고 있습니다.</p>
+<p>O post <a rel="nofollow" href="https://observatoriodocinema.com.br/kr/2026-lck-finals-tickets/">2026 LCK 결승전 티켓, 8월 27일 판매 시작으로 열기 고조</a> apareceu primeiro em <a rel="nofollow" href="https://observatoriodocinema.com.br">Observatório do Cinema</a>.</p>
+]]></content:encoded>
+									
+				
+				
+				<enclosure url="https://cdn.observatoriodocinema.com.br/2026/08/2026-lck-finals-tickets-1024x538.jpg" length="1" type="image/jpeg" />			</item>
+<item>
 				<title>레드 데드 리뎀션 멀티플레이, 해킹 의심케 한 역대급 버그 사태 전말</title>
 				<link>https://observatoriodocinema.com.br/kr/red-dead-redemption-multiplayer-bugs/</link>
 				
@@ -80193,118 +80268,6 @@ The post <a href="https://poltronanerd.com.br/games2/bis-e-uno-anunciam-collab-i
 				
 				
 				<enclosure url="https://cdn.observatoriodocinema.com.br/2026/08/sacrificio-sangue-3-1024x576.jpg" length="1" type="image/jpeg" />			</item>
-<item>
-				<title>Outer Banks 5ª temporada &#8211; Crítica: Despedida emociona, mas se perde no caminho</title>
-				<link>https://observatoriodocinema.com.br/criticas/outer-banks-5a-temporada-critica/</link>
-				
-				<dc:creator><![CDATA[Diego Almeida]]></dc:creator>
-				<pubDate>Thu, 20 Aug 2026 13:00:00 +0000</pubDate>
-						<category><![CDATA[Críticas]]></category>
-		<category><![CDATA[Netflix]]></category>
-		<category><![CDATA[Séries]]></category>
-		<category><![CDATA[Feed Control]]></category>
-		<category><![CDATA[Outer Banks]]></category>
-				<guid isPermaLink="false">https://observatoriodocinema.com.br/?p=1061750</guid>
-
-									<description><![CDATA[<p>Temporada final acerta ao lidar com o luto, apesar de vilões fracos e tramas desnecessárias</p>
-<p>O post <a rel="nofollow" href="https://observatoriodocinema.com.br/criticas/outer-banks-5a-temporada-critica/">Outer Banks 5ª temporada &#8211; Crítica: Despedida emociona, mas se perde no caminho</a> apareceu primeiro em <a rel="nofollow" href="https://observatoriodocinema.com.br">Observatório do Cinema</a>.</p>
-]]></description>
-																<content:encoded><![CDATA[<figure><img src="https://cdn.observatoriodocinema.com.br/2026/06/Outer-Banks-18-6-1024x576.jpg" alt=""/></figure>
-<p class="wp-block-paragraph">A 5ª temporada de <em>Outer Banks</em> tinha uma responsabilidade maior do que simplesmente encerrar mais uma caça ao tesouro. Depois de anos de aventuras cada vez mais perigosas, a série precisava concluir a jornada dos Pogues e ainda lidar com as consequências da morte de JJ Maybank no final do quarto ano. O personagem de Rudy Pankow sempre foi uma das peças mais importantes do grupo, e sua ausência define praticamente tudo o que acontece na despedida.</p>
-
-
-
-<p class="wp-block-paragraph">O luto aparece principalmente através de Kiara. Única integrante do grupo que presenciou a morte de JJ, ela entra na temporada determinada a se vingar de Chandler Groff, pai biológico do personagem e responsável pelo crime.</p>
-
-
-
-<p class="wp-block-paragraph">Madison Bailey entrega seu melhor trabalho na série e assume o papel de centro emocional que antes pertencia a Pankow. A dor de Kiara acompanha a viagem dos Pogues por Marrocos, Espanha e Croácia até o inevitável retorno a Kildare.</p>
-
-
-
-<figure class="wp-block-image size-large"><img data-dominant-color="7f4d1a" data-has-transparency="false" style="--dominant-color: #7f4d1a;" decoding="async" width="1024" height="577" src="https://cdn.observatoriodocinema.com.br/2026/08/Outer-Banks-19-8-1024x577.jpg" alt="" class="wp-image-1061695 not-transparent" srcset="https://cdn.observatoriodocinema.com.br/2026/08/Outer-Banks-19-8-300x169.jpg 300w, https://cdn.observatoriodocinema.com.br/2026/08/Outer-Banks-19-8-1024x577.jpg 1024w, https://cdn.observatoriodocinema.com.br/2026/08/Outer-Banks-19-8-768x432.jpg 768w, https://cdn.observatoriodocinema.com.br/2026/08/Outer-Banks-19-8-1536x865.jpg 1536w, https://cdn.observatoriodocinema.com.br/2026/08/Outer-Banks-19-8-150x84.jpg 150w, https://cdn.observatoriodocinema.com.br/2026/08/Outer-Banks-19-8.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h2 class="wp-block-heading">Vilões prejudicam a temporada final</h2>
-
-
-
-<p class="wp-block-paragraph">É justamente quando os personagens voltam para Outer Banks que a temporada começa a acumular problemas.</p>
-
-
-
-<p class="wp-block-paragraph">Cleo enfrenta a deportação, Pope precisa cumprir pena na prisão e John B e Sarah tentam encontrar estabilidade financeira enquanto se preparam para a chegada do primeiro filho. Há material suficiente nessas histórias para desenvolver o futuro dos personagens, mas o roteiro prefere criar novos perigos.</p>
-
-
-
-<p class="wp-block-paragraph">John B toma uma decisão impulsiva que coloca ele e Sarah na mira de traficantes e inicia uma longa trama que se estende até Nova Orleans.</p>
-
-
-
-<p class="wp-block-paragraph">O conflito parece deslocado em uma temporada final, principalmente porque ocupa um espaço que poderia ser usado para aprofundar as relações entre os Pogues. Depois de tudo que John B viveu, também é difícil acreditar que ele voltaria tão rapidamente a tomar decisões capazes de colocar Sarah e o bebê em risco.</p>
-
-
-
-<p class="wp-block-paragraph">Os outros antagonistas sofrem de problemas parecidos.</p>
-
-
-
-<p class="wp-block-paragraph">Dale Zeasy funciona como uma representação simples da disputa entre Pogues e Kooks, enquanto Groff perde parte do interesse que possuía anteriormente. Diferentemente de Ward, que conseguia misturar crueldade com sentimentos reais pela família, Groff é apresentado quase sempre como alguém puramente perverso.</p>
-
-
-
-<p class="wp-block-paragraph">O resultado é um vilão previsível, embora seu destino entregue uma conclusão satisfatória para o conflito.</p>
-
-
-
-<figure class="wp-block-image size-large"><img data-dominant-color="897050" data-has-transparency="false" style="--dominant-color: #897050;" decoding="async" width="1024" height="576" src="https://cdn.observatoriodocinema.com.br/2026/05/Outer-Banks-13-5-1024x576.jpg" alt="" class="wp-image-1052174 not-transparent" srcset="https://cdn.observatoriodocinema.com.br/2026/05/Outer-Banks-13-5-300x169.jpg 300w, https://cdn.observatoriodocinema.com.br/2026/05/Outer-Banks-13-5-1024x576.jpg 1024w, https://cdn.observatoriodocinema.com.br/2026/05/Outer-Banks-13-5-768x432.jpg 768w, https://cdn.observatoriodocinema.com.br/2026/05/Outer-Banks-13-5-1536x864.jpg 1536w, https://cdn.observatoriodocinema.com.br/2026/05/Outer-Banks-13-5-150x84.jpg 150w, https://cdn.observatoriodocinema.com.br/2026/05/Outer-Banks-13-5.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h2 class="wp-block-heading">Luto dá força à despedida dos Pogues</h2>
-
-
-
-<p class="wp-block-paragraph">Quando deixa as tramas paralelas de lado, <em>Outer Banks</em> encontra sua maior força no luto.</p>
-
-
-
-<p class="wp-block-paragraph">Se as temporadas anteriores foram marcadas pelas relações difíceis entre pais e filhos, o último ano fala sobre aprender a continuar vivendo depois de uma perda. A morte de JJ não é tratada apenas como motivação para uma vingança, mas como algo que muda a forma como cada Pogue enxerga aquilo que realmente importa.</p>
-
-
-
-<p class="wp-block-paragraph">Kiara representa melhor essa ideia. Sua esperança envolvendo os supostos poderes da Coroa Azul mostra o quanto ela ainda se recusa a aceitar a perda.</p>
-
-
-
-<p class="wp-block-paragraph">Um dos momentos mais fortes da temporada acontece quando a personagem passa a recordar não apenas a morte de JJ, mas tudo o que viveu ao lado dele. Em vez de apagar sua dor, a série mostra que seguir em frente também significa reconhecer o valor daquilo que foi perdido.</p>
-
-
-
-<p class="wp-block-paragraph">Esse tema conduz <em>Outer Banks</em> de volta à essência da série.</p>
-
-
-
-<p class="wp-block-paragraph">Por trás dos tesouros, perseguições e viagens pelo mundo, a amizade sempre foi o verdadeiro motivo para continuar acompanhando os Pogues. A temporada reforça que eles passaram anos procurando uma grande vitória sem perceber que a maior conquista era justamente terem encontrado uns aos outros.</p>
-
-
-
-<p class="wp-block-paragraph">A 5ª temporada poderia ser mais enxuta e aproveitar melhor seus dez episódios.</p>
-
-
-
-<p class="wp-block-paragraph">As tramas com novos criminosos prejudicam o ritmo, e os vilões estão longe dos melhores que a série já apresentou. Mesmo assim, quando chega a hora de se despedir, <em>Outer Banks</em> sabe exatamente onde está seu coração. Os problemas do caminho perdem força diante de um final que entende por que o público acompanhou John B, Sarah, Kiara, Pope, Cleo e JJ durante todos esses anos. “Pogues para sempre” nunca fez tanto sentido.</p>
-
-
-
-<p class="wp-block-paragraph"><strong>Nota</strong>: ★★★☆☆ 3/5</p>
-<p>O post <a rel="nofollow" href="https://observatoriodocinema.com.br/criticas/outer-banks-5a-temporada-critica/">Outer Banks 5ª temporada &#8211; Crítica: Despedida emociona, mas se perde no caminho</a> apareceu primeiro em <a rel="nofollow" href="https://observatoriodocinema.com.br">Observatório do Cinema</a>.</p>
-]]></content:encoded>
-									
-				
-				
-				<enclosure url="https://cdn.observatoriodocinema.com.br/2026/06/Outer-Banks-18-6-1024x576.jpg" length="1" type="image/jpeg" />			</item>
 <item>
 		<title>Boas notícias vindas da RFB: a nova  interpretação para o cálculo do earn-out em M&#038;A</title>
 		<link>https://startups.com.br/coluna/boas-noticias-vindas-da-rfb-a-nova-interpretacao-para-o-calculo-do-earn-out-em-ma/</link>
